@@ -1,5 +1,6 @@
-# Hi, welcome to Pedro Lucas Caratti Git
+# Hi, welcome to Pedro Lucas Caratti Git 👋
 
+## About me
 <!--
 **pedrolucascaratti/pedrolucascaratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
