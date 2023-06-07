@@ -12,9 +12,6 @@ Although my GitHub profile may not display an extensive list of projects, I've h
 
 This journey has shaped me into the developer I am today, and I look forward to contributing more to the open-source community.
 
-<details>
-<summary>My top languages</summary>
-
 | Rank | Languages |
 |-----:|-----------|
 |     1| Dart      |
@@ -22,6 +19,3 @@ This journey has shaped me into the developer I am today, and I look forward to 
 |     3| Kotlin    |
 |     4| C++ (WIP) |
 |     5| Python    |
-
-</details>
-
