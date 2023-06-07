@@ -20,6 +20,8 @@ This journey has shaped me into the developer I am today, and I look forward to 
 |     1| Dart      |
 |     2| Java      |
 |     3| Kotlin    |
+|     4| C++ (WIP) |
+|     5| Python    |
 
 </details>
 
