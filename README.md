@@ -18,7 +18,8 @@ This journey has shaped me into the developer I am today, and I look forward to 
 |     2| Java      |
 |     3| Kotlin    |
 |     4| C++ (WIP) |
-|     5| Python    |
+|     5| Go        |
+|     6| Python    |
 
 
 # Bem-vindo ao Perfil GitHub de Pedro Lucas Caratti 👋
